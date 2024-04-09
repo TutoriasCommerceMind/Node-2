@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Acer Aspire 5",
+    "description": "Laptop de 15.6 pulgadas con procesador Intel Core i5, 8GB de RAM y 512GB SSD",
+    "price": 699.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "2",
+    "name": "Smartphone Samsung Galaxy S20",
+    "description": "Smartphone desbloqueado de fábrica con pantalla AMOLED de 6.2 pulgadas, 128GB de almacenamiento y cámara de 64MP",
+    "price": 899.99,
+    "category": "Electronics"
+  },
+  {
+    "id": "3",
+    "name": "Zapatillas Nike Air Max 270",
+    "description": "Zapatillas deportivas para correr con tecnología de amortiguación Air Max, disponible en varios colores",
+    "price": 129.99,
+    "category": "Fashion"
+  },
+  {
+    "id": "4",
+    "name": "Libro: Harry potter con el señor",
+    "description": "Libro clásico de fantasía épica escrito por J.R.R. Tolkien, edición de tapa dura",
+    "price": 19.99,
+    "category": "Books"
+  }
+]
